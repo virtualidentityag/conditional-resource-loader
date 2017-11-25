@@ -1,3 +1,5 @@
+# moved to: https://github.com/frontend-framework/conditional-resource-loader
+
 # conditional-resource-loader
 
 The resourceLoader loads styles and scripts for components via ajax or link tag injection. Resources that should be loaded can either be provided via "resources" option during initialization of loader or when not, they will be fetched from data-resources attribute in DOM by loader itself.
